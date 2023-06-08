@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajoy-1704001&label=Profile%20views&color=0e75b6&style=flat" alt="ajoy-1704001" /> </p>
 
+- 💪🏻 Skills I have <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">
+
 - 🌱 I’m currently learning **IOS Development(Swift)**
 
 - 📫 How to reach me **ajoydeb.cuet@gmail.com**
