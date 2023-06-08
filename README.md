@@ -11,7 +11,7 @@
 
 
 ## 🧠 Online Judge ID:
-<a href="https://www.leetcode.com/ajoy-1704001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajoy-1704001" height="30" width="40" /></a><p> Ajoy-1704001</p>
+<a href="https://www.leetcode.com/ajoy-1704001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajoy-1704001" height="30" width="40" /><p> Ajoy-1704001</p></a>
 
 
 # 💻 Tech Stack:
