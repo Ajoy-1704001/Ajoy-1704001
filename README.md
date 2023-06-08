@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajoy</h1>
-<h3 align="center">An exciting character and code-freak</h3>
+<h3 align="center">An Exciting Character and Code-freak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajoy-1704001&label=Profile%20views&color=0e75b6&style=flat" alt="ajoy-1704001" /> </p>
 
+- 🌱 I’m currently learning **IOS Development(Swift)**
+
 - 📫 How to reach me **ajoydeb.cuet@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11ZBXd59hJqJ648DnVOHD9M_CR6nArEnM/view?usp=sharing](https://drive.google.com/file/d/11ZBXd59hJqJ648DnVOHD9M_CR6nArEnM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
