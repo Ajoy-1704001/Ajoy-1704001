@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajoy-1704001&label=Profile%20views&color=0e75b6&style=flat" alt="ajoy-1704001" /> </p>
 
-🌱 I’m a regular problem solver<br><br>💪🏻 I have strong skills on Java, Flutter/Dart, Android, Python, OOP, Data Structure, SQL, MongoDb, NodeJs, Git, Machine Learning etc.<br><br>🔭 How to reach me ajoydeb.cuet@gmail.com<br><br>📄 Know about my experiences at my resume: https://shorturl.at/wCOY2
+🌱 I’m currently learning Spring boot, Hibernate/JPA, RESTful services<br><br>💪🏻 I have strong skills on Java, Flutter/Dart, Android, Python, OOP, Data Structure, SQL, MongoDb, NodeJs, Git, Machine Learning etc.<br><br>🔭 How to reach me ajoydeb.cuet@gmail.com<br><br>📄 Know about my experiences at my resume: https://shorturl.at/wCOY2
 
 
 ## 🌐 Socials:
